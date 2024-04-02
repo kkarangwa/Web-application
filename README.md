@@ -10,7 +10,7 @@ This is a web application built using HTML, CSS, and JavaScript. The application
 How to Run the Application Locally
 To run the application locally, follow these steps:
 
-Clone this repository to your local machine using the following command: git clone https://github.com/ykwizera/Web-Application-Containerization.git
+Clone this repository to your local machine using the following command: git clone[ https://github.com/ykwizera/Web-Application-Containerization.git](https://github.com/kkarangwa/Web-application.git)
 
 Navigate to the project directory: cd application
 
